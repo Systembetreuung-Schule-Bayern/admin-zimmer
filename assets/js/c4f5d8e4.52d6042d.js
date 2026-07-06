@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunkadmin_zimmer=globalThis.webpackChunkadmin_zimmer||[]).push([[634],{192(i,a,e){e.r(a),e.d(a,{default:()=>s});e(6540);var r=e(6347),m=e(4848);function s(){return(0,m.jsx)(r.rd,{to:"/admin-zimmer/docs/0-0-startseite"})}}}]);
