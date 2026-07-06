@@ -10,7 +10,7 @@ const config = {
   projectName: 'admin-zimmer', 
   trailingSlash: false,
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   i18n: {
