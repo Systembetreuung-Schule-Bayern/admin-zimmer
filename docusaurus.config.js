@@ -1,14 +1,22 @@
+// @ts-check
+// `@type` JSDoc annotations allow editor autocompletion and type checking
+// @ts-ignore
+import {themes as githubThemes} from 'prism-react-renderer';
+
+/** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Admin-Zimmer.de',
-  tagline: 'Der digitale Werkzeugkasten für Bayerns Grund- und Mittelschulen',
+  title: 'Admin-Zimmer',
+  tagline: 'Zentrale Wissensplattform für die Systembetreuung',
   favicon: 'img/favicon.ico',
 
-  // Exakt auf deinen GitHub-Namen angepasst:
-  url: 'https://Systembetreuung-Schule-Bayern.github.io', 
-  baseUrl: '/admin-zimmer/', 
-  organizationName: 'Systembetreuung-Schule-Bayern', 
-  projectName: 'admin-zimmer', 
-  trailingSlash: false,
+  // Setze hier deine exakte GitHub-Webseiten-URL ein
+  url: 'https://Systembetreuung-Schule-Bayern.github.io',
+  // Der Ordnername deines Repositories auf GitHub
+  baseUrl: '/admin-zimmer/',
+
+  // GitHub-Pages-Einstellungen
+  organizationName: 'Systembetreuung-Schule-Bayern',
+  projectName: 'admin-zimmer',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -21,12 +29,15 @@ const config = {
   presets: [
     [
       'classic',
+      /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          routeBasePath: '/', // Dokumentation ist die Startseite
+          // ZAUBERTRICK: Die Dokumentation liegt nun direkt auf der Startseite (/)
+          routeBasePath: '/', 
+          editUrl: 'https://github.com/Systembetreuung-Schule-Bayern/admin-zimmer/tree/main/',
         },
-        blog: false, 
+        blog: false, // Deaktiviert den Blog, da wir nur die Doku wollen
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -35,17 +46,32 @@ const config = {
   ],
 
   themeConfig: {
+    // Hier wird das obere Menü (Navbar) definiert
     navbar: {
       title: 'Admin-Zimmer',
+      logo: {
+        alt: 'Admin-Zimmer Logo',
+        src: 'img/logo.svg',
+      },
       items: [
-        {type: 'docSidebar', sidebarId: 'tutorialSidebar', position: 'left', label: 'Wissen'},
+        // Der Reiter "Wissen" ist hier entfernt, da die Doku jetzt die gesamte Seite ist.
+        {
+          href: 'https://github.com/Systembetreuung-Schule-Bayern/admin-zimmer',
+          label: 'GitHub',
+          position: 'right',
+        },
       ],
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Admin-Zimmer.de. Privatprojekt von Kollegen für Kollegen.`,
+      links: [],
+      copyright: `Copyright © ${new Date().getFullYear()} Admin-Zimmer. Systembetreuung Schule Bayern.`,
+    },
+    prism: {
+      theme: githubThemes.github,
+      darkTheme: githubThemes.dracula,
     },
   },
 };
 
-module.exports = config;
+export default config;

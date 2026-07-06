@@ -1,9 +1,11 @@
 ---
-sidebar_position: 1
+---
 slug: /
+sidebar_position: 1
 ---
 
 # Willkommen im Admin-Zimmer
+...
 
 Hier entsteht die zentrale Wissensplattform für die Systembetreuung. 
 
