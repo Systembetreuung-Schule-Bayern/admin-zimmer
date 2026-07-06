@@ -8,6 +8,6 @@ title: Willkommen im Admin-Zimmer
 
 VON EINEM SYSTEMBETREUER. FÜR SYSTEMBETREUER. 
 
-> ⚠️ **Vorab-Klartext:** Ich bin kein Ministerium und kein Anwalt. Ich bin dein Kollege aus der Schule nebenan. Alles hier sind persönliche Ratschläge und Best Practices aus meiner Erfahrung.
+> ⚠️ **Vorab-Klartext:** Ich bin kein Ministerium und kein Anwalt. Ich bin dein Kollege aus der Schule nebenan. Alles hier sind persönliche Ratschläge und Best Practices aus meiner Erfahrung. 
 
 Nutze die linke Navigation, um direkt in deine aktuelle Baustelle einzusteigen!
