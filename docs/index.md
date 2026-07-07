@@ -1,9 +1,7 @@
 ---
----
 slug: /
 sidebar_position: 0
 sidebar_label: "🏠 Startseite"
----
 ---
 
 # Systembetreuung-Schule-Bayern.de
