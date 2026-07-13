@@ -5,7 +5,7 @@ sidebar_label: "Erste Schritte im Amt"
 
 # Erste Schritte nach Amtsübernahme
 
-Die Übernahme der Systembetreuung erfordert eine schnelle Erfassung des Ist-Zustands, um die Betriebsfähigkeit der Schul-IT zu sichern und rechtliche Haftungsfragen zu klären.
+Du bist ganz neu im Amt und suchst eine erste Orientierung und SOS- Station? Dann bist du hier richtig! Der folgende Artikel bietet dir eine Übersicht über die ersten Schritte im Amt.
 
 ---
 
@@ -27,7 +27,7 @@ Arbeite die folgenden Schritte nacheinander ab, um eine strukturierte Übergabe 
 ### Schritt 1: Übergabe
 Wenn das Amt des Systembetreuers an eine neue Lehrkraft übergeben wird, bedeutet das in der Regel auch, dass eine andere Person damit aufhört. Sollte das nicht der Fall sein und das Amt durch eine weitere Person ergänzt werden, ignoriere die folgenden Punkte. In diesem Fall solltest du dich mit der entsprechenden Leitung des Teams besprechen, welche Aufgaben dir zukünftig zufallen.
 In jedem Fall solltest du von deinem Vorgänger eine Liste mit allen relevanten Zugängen im Schulhaus erhalten. Ein Übergabeprotokoll oder Ähnliches kann möglich sein, ist aber in der Praxis eher die Ausnahme. 
-**In jedem Fall solltest du dich mit deinem alten Systembetreuer zusammensetzen und ihn nach allen Besonderheiten und regelmäßig anfallenden Aufgaben fragen. Jede Schule hat bzgl. ihrer IT- Struktur völlig andere Voraussetzungen und Bedingungen. Was beim einen Systembetreuer völlig irrelevant ist, kann beim nächsten zum Tagesgeschäft gehören.**
+**In jedem Fall solltest du dich mit deinem alten Systembetreuer zusammensetzen und ihn nach allen Besonderheiten und regelmäßig anfallenden Aufgaben fragen. Jede Schule hat bzgl. ihrer IT- Struktur völlig andere Voraussetzungen und Bedingungen. Was bei einem Systembetreuer völlig irrelevant ist, kann beim nächsten zum Tagesgeschäft gehören.**
 Ein Tipp gleich vorneweg: Die schuleigene IT- Infrastruktur gegebenenfalls erstmal wahnsinnig chaotisch zu finden, ist völlig normal. Keine Sorge, die Übersicht wird kommen, die Fragezeichen werden verschwinden. 
 * Frag deinen ehemaligen Systembetreuer auch, wie viel Arbeit er ungefähr wöchentlich in das Amt investiert hat und wie viele Anrechnungsstunden er erhalten hat. Deinen eigenen Arbeitsaufwand kannst du anhand dessen zumindest grob abschätzen: Läuft es in deiner Schule IT-technisch gut, jeder ist zufrieden, es gibt wenig größere Probleme, es stehen keine größeren Neuanschaffungen oder Systemumstellungen an? Dann wirst du mit wenig Aufwand zunächst gut davonkommen. Ist das Gegenteil der Fall? Dann kann man hier durchaus mit einigen Stunden Aufwand pro Woche rechnen. 
 * Sofern es einen oder mehrere Serverräume gibt, brauchst du Zugang zu diesen. Lass dir die IT- Infrastruktur am Besten vom alten Systembetreuer zeigen und auch erklären. Er kennt die Eigenheiten und den Aufbau meist am Besten. 
@@ -49,3 +49,8 @@ In der Regel wirst du das Amt von der Schulleitung erhalten haben, sie weiß als
 * Gibt es Dinge, die deine Schulleitung mit der Systembetreuung ändern will?
 * Wie viele Anrechnungsstunden können dir gewährt werden? Tipp: Rechne zunächst mit einer Anrechnungsstunde pro Woche. Ggf. kannst du bei derzeit vielen Problemen mit der IT auch gleich auf 2 Stunden pro Woche verhandeln. Mit mehr solltest du vorerst nicht rechnen. Was aber nicht heißt, dass das nicht möglich wäre. Auch 3 Anrechnungsstunden sind bei einem hohen Arbeitsaufwand durchaus gerechtfertigt und möglich. Verkaufe dich nicht unter Wert!
 
+### Schritt 4: Aufgaben und Dienstordnung
+Dieser Punkt ist auf der [nächsten Seite](./1-recht-orga/1-2aufgaben-dienstordnung.md) ausführlicher beschrieben. Mache dich mit den Vorschriften und Aufgaben vertraut!
+
+### Schritt 5: Implementiere ein Ticketsystem
+Ein Ticketsystem wird dir die Arbeit kurz-, mittel- und langfristig enorm vereinfachen. Auch hierfür gibt es eine [extra Seite](./1-recht-orga/1-3meldungen-dokumentation.md).
