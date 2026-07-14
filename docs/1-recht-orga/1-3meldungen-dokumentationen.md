@@ -7,15 +7,15 @@ sidebar_label: "Meldungen und Dokumentationen"
 
 Auf dieser Seite findest du nützliche Hinweise und Ideen, um die Arbeit als Systembetreuer zu erleichtern und zu dokumentieren.
 
-## Grundsätzliches
+**Grundsätzliches**
 Es ist absolut empfehlenswert, im Kollegium ein Ticketsystem für alle anfallenden Aufgaben, Probleme und Anfragen an die Systembetreuung zu implementieren und etablieren. Die wenigsten schaffen es auf Dauer, jegliche Probleme und Wünsche per Zuruf in der Pause oder auf dem Gang, per Post-It im Fach und per E-Mail unter einen Hut zu kriegen und dabei nichts zu vergessen.
 
-### Vorteile:
+**Vorteile**:
 * Du behältst selbst den Überblick und vergisst nichts
 * Deine Kollegen wissen, wie sie dich erreichen können
 * Im besten Fall kannst du deine Arbeit auch gleich protokollieren
 
-### Achtung
+**Achtung**
 Insbesondere wenn man ein Ticketsystem neu einführt und je nachdem, wie einfach dieses zu bedienen ist, kann es durchaus zu Widerstand innerhalb des Kollegiums kommen: "Für mich ist es viel einfacher, dir einfach kurz einen Zettel ins Fach zu legen". Das mag sein, für den Systembetreuer aber nicht. Hier ist es empfehlenswert, gerade am Anfang eisern auf das Ticketsystem zu verweisen und darauf zu bestehen. 
 
 Nachfolgend sind verschiedene Möglichkeiten mit den jeweiligen Vorteilen aufgelistet, ein solches System zu etablieren.
