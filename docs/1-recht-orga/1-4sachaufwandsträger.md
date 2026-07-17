@@ -17,7 +17,7 @@ Die Aufgabenverteilung zwischen Schule (Freistaat Bayern / Lehrkräfte) und Sach
 
 Vereinfacht lässt sich sagen: **Die Schule pädagogisiert, der Sachaufwandsträger technisiert.**
 
-| Bereich | Pädagogische Systembetreuung (Schule / Sie) | Technische Systembetreuung (Sachaufwandsträger / IT) |
+| Bereich | Pädagogische Systembetreuung (Schule / Du) | Technische Systembetreuung (Sachaufwandsträger / IT) |
 | :--- | :--- | :--- |
 | **Zuständigkeit** | Didaktisch-pädagogisches Konzept | Bereitstellung & Wartung der Infrastruktur |
 | **Typische Aufgaben** | <ul><li>Einweisung des Kollegiums</li><li>Vergabe von pädagogischen Rechten</li><li>Beratung bei Softwareauswahl</li></ul> | <ul><li>Beschaffung von PCs, Tablets & Servern</li><li>Netzwerk- und WLAN-Einrichtung</li><li>Updates & Datensicherung (Backup)</li></ul> |
@@ -25,6 +25,7 @@ Vereinfacht lässt sich sagen: **Die Schule pädagogisiert, der Sachaufwandsträ
 
 :::info Wichtig zu wissen
 Alles, was über die reine Nutzung und einfache First-Level-Tätigkeiten (wie z. B. das Zurücksetzen eines Schülerpassworts) hinausgeht, liegt in der Verantwortung des Sachaufwandsträgers. Sie müssen und dürfen keine Server eigenmächtig konfigurieren oder Netzwerkkabel im Gebäude verlegen.
+In der Praxis wird man als Systembetreuer auch mal die eine oder andere Aufgabe des Sachaufwandsträgers übernehmen. Die Zeit, die es braucht, um ein vernünftiges Ticket zu schreiben, ist oft dieselbe, wenn man das Problem direkt selbst löst.
 :::
 
 ---
